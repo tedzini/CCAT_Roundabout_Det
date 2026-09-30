@@ -10,6 +10,6 @@ Synopsis:
 
 * [**/sensorcalb**](./sensorcalib/README_sensorcalib.md) contains calibration data and the calibration procedures for 2 specific fisheye cameras with the same 2992x2992 image resolution.
 
-* [**/multiview_detection**](./multiview_detection/code/README_YOLOv8_multiview_det_code.md) contains code and models for executing the multi-image rectified fisheye detection models.
+* [**/multiview_obj_detection**](./multiview_obj_detection/code/README_YOLOv8_multiview_det_code.md) contains code and models for executing the multi-image rectified fisheye detection models.
 
-* [**/fisheye_detection**](./YOLOv11det/code/README_fisheye_det_code.md) contains code and models for executing the fisheye image trained YOLO fisheye detection models.
+* [**/fisheye_obj_detection**](./fisheye_obj_detection/code/README_fisheye_det_code.md) contains code and models for executing the fisheye image trained YOLO fisheye detection models.
